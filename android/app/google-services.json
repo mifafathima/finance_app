@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51666434695",
+    "project_id": "finance-app-af766",
+    "storage_bucket": "finance-app-af766.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51666434695:android:88bf6505c9516e3ff09622",
+        "android_client_info": {
+          "package_name": "com.example.finance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqy53qrV61SpDHs_vcLtAOWZrrBrZcKFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
